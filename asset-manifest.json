@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.93e94673.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.4cd74cb9.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.4cd74cb9.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.ad437546.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ad437546.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b4b48c7e.chunk.js": "/react-portfolio/static/js/2.b4b48c7e.chunk.js",
-    "static/js/2.b4b48c7e.chunk.js.map": "/react-portfolio/static/js/2.b4b48c7e.chunk.js.map",
+    "static/js/2.35a7524e.chunk.js": "/react-portfolio/static/js/2.35a7524e.chunk.js",
+    "static/js/2.35a7524e.chunk.js.map": "/react-portfolio/static/js/2.35a7524e.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.2cb5916b10ebf07c9e7fd89bbd98463a.js": "/react-portfolio/precache-manifest.2cb5916b10ebf07c9e7fd89bbd98463a.js",
+    "precache-manifest.e2615636035520269465ac75c170f761.js": "/react-portfolio/precache-manifest.e2615636035520269465ac75c170f761.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.93e94673.chunk.css.map": "/react-portfolio/static/css/main.93e94673.chunk.css.map",
-    "static/js/2.b4b48c7e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b4b48c7e.chunk.js.LICENSE.txt",
+    "static/js/2.35a7524e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.35a7524e.chunk.js.LICENSE.txt",
     "static/media/Fitness-Tracker-Demo.gif": "/react-portfolio/static/media/Fitness-Tracker-Demo.212df89b.gif",
     "static/media/Pandemic-Playlist-Demo.gif": "/react-portfolio/static/media/Pandemic-Playlist-Demo.7aab4816.gif",
     "static/media/StudyMate-Demo.gif": "/react-portfolio/static/media/StudyMate-Demo.9093b6ac.gif",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b4b48c7e.chunk.js",
+    "static/js/2.35a7524e.chunk.js",
     "static/css/main.93e94673.chunk.css",
-    "static/js/main.4cd74cb9.chunk.js"
+    "static/js/main.ad437546.chunk.js"
   ]
 }
