@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3baca6dbae8e65efeda946781144bbaa",
+    "revision": "77d654815d1004d47ca5c6a1dbe45ce0",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "2be3d226d0e1170f27d4",
+    "revision": "bf6d2ffb252ddfe159fb",
     "url": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "d85fdb9da0310c4f75e0",
+    "revision": "176f72f7474df3706781",
     "url": "/react-portfolio/static/css/main.93e94673.chunk.css"
   },
   {
-    "revision": "2be3d226d0e1170f27d4",
-    "url": "/react-portfolio/static/js/2.303f691b.chunk.js"
+    "revision": "bf6d2ffb252ddfe159fb",
+    "url": "/react-portfolio/static/js/2.2ee8f822.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-portfolio/static/js/2.303f691b.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio/static/js/2.2ee8f822.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d85fdb9da0310c4f75e0",
-    "url": "/react-portfolio/static/js/main.5cdde8d3.chunk.js"
+    "revision": "176f72f7474df3706781",
+    "url": "/react-portfolio/static/js/main.3f12c3c9.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "212df89bffffba3013c515fbd7b8fbd0",
     "url": "/react-portfolio/static/media/Fitness-Tracker-Demo.212df89b.gif"
+  },
+  {
+    "revision": "74ebba188438119ac156729741a440bd",
+    "url": "/react-portfolio/static/media/Headshot.74ebba18.png"
   },
   {
     "revision": "7aab4816e8957fb295bdcd445cd0a620",
